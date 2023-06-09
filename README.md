@@ -1,1 +1,1 @@
-# csesyllabus.github.io
+# CSE SYLLABUS
